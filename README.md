@@ -1,6 +1,5 @@
 # 💫 Nilam EL AMRANI
-
-##  Enthusiast in Robotics & AI, curious and eager to learn, passionate about exploring cutting-edge AI technology, and contributing to innovative projects that push the boundaries of possibility. <br><br>
+### <center>Enthusiast in Robotics & AI, curious and eager to learn, passionate about exploring cutting-edge AI technology and contributing to innovative projects that push the boundaries of possibility.</center> <br><be>
 <img align="right" alt="Coding" width="200" height="200" src="https://github.com/46orionis/46orionis/assets/65911052/3d6f5d91-7cf4-43a5-a38a-268b95ab80cf">
 
 I'm a Robotics engineering student at the Euromediteranian University of Fes. <br>
@@ -19,9 +18,10 @@ I'm a Robotics engineering student at the Euromediteranian University of Fes. <b
  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)  ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 <!--![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)-->
 ---
-![](https://github-readme-stats.vercel.app/api?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=46orionis&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
