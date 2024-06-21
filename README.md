@@ -18,8 +18,15 @@ I'm a Robotics engineering student at the Euromediteranian University of Fes. <b
  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)  ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 <!--![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)-->
 ---
-![](https://github-readme-stats.vercel.app/api?username=46orionis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=46orionis&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=46orionis&theme=dracula&hide_border=false)<br/>
 
