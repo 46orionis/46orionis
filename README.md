@@ -1,6 +1,7 @@
 ## 💫 Nilam EL AMRANI
-###  Robotics & AI enthusiast <br>
 <img align="right" alt="Coding" width="200" height="200" src="https://github.com/46orionis/46orionis/assets/65911052/3d6f5d91-7cf4-43a5-a38a-268b95ab80cf">
+
+###  Robotics & AI enthusiast <br>
 
 I'm a Robotics engineering student at the Euromediteranian University of Fes. <br>
 🔭 I’m currently working on SAR robots with Alzheimer's patients<br>🌱 I’m currently learning more about AI<br>⚡ I'm passionate about psychology and its implementation in  robotics <br>
@@ -19,10 +20,10 @@ I'm a Robotics engineering student at the Euromediteranian University of Fes. <b
 <!--![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)-->
 ---
 ![](https://github-readme-stats.vercel.app/api?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=46orionis&theme=dracula&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=46orionis&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
