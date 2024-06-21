@@ -19,7 +19,8 @@ I'm a Robotics engineering student at the Euromediteranian University of Fes. <b
 <!--![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)-->
 ---
 ![](https://github-readme-stats.vercel.app/api?username=46orionis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-  
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=46orionis&theme=dracula&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
