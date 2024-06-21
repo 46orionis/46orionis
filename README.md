@@ -1,6 +1,6 @@
-## 💫 Nilam EL AMRANI
+# 💫 Nilam EL AMRANI
 
-###  Enthusiast in Robotics & AI, curious and eager to learn, passionate about exploring cutting-edge AI technology, and contributing to innovative projects that push the boundaries of possibility. <br><br>
+##  Enthusiast in Robotics & AI, curious and eager to learn, passionate about exploring cutting-edge AI technology, and contributing to innovative projects that push the boundaries of possibility. <br><br>
 <img align="right" alt="Coding" width="200" height="200" src="https://github.com/46orionis/46orionis/assets/65911052/3d6f5d91-7cf4-43a5-a38a-268b95ab80cf">
 
 I'm a Robotics engineering student at the Euromediteranian University of Fes. <br>
