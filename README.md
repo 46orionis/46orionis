@@ -1,7 +1,7 @@
 ## 💫 Nilam EL AMRANI
-<img align="right" alt="Coding" width="200" height="200" src="https://github.com/46orionis/46orionis/assets/65911052/3d6f5d91-7cf4-43a5-a38a-268b95ab80cf">
 
-###  Robotics & AI enthusiast <br>
+###  Enthusiast in Robotics & AI, curious and eager to learn, passionate about exploring cutting-edge AI technology, and contributing to innovative projects that push the boundaries of possibility. <br><br>
+<img align="right" alt="Coding" width="200" height="200" src="https://github.com/46orionis/46orionis/assets/65911052/3d6f5d91-7cf4-43a5-a38a-268b95ab80cf">
 
 I'm a Robotics engineering student at the Euromediteranian University of Fes. <br>
 🔭 I’m currently working on SAR robots with Alzheimer's patients<br>🌱 I’m currently learning more about AI<br>⚡ I'm passionate about psychology and its implementation in  robotics <br>
