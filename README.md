@@ -90,9 +90,12 @@ My work focuses on combining:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=46orionis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=46orionis&theme=github_dar)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=46orionis&show_icons=true&theme=github_dark&hide_border=true&title_color=c4b5fd&text_color=e5e7eb&icon_color=c4b5fd)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&layout=compact&theme=github_dark&hide_border=true&title_color=c4b5fd&text_color=e5e7eb)
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=46orionis&theme=tokyo-night&hide_border=true)
