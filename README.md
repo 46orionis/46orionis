@@ -38,15 +38,13 @@ My work focuses on combining:
 
 ---
 
-    </td>
 
-    <td style="vertical-align: top; width: 30%; text-align: right;">
+  
 
 <p align="right">
   <img src="./profile.png" width="220" />
 </p>
 
-    </td>
   </tr>
 </table>
 
@@ -92,10 +90,12 @@ My work focuses on combining:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=46orionis&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=46orionis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=46orionis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8)
+## 📈 Contribution Activity
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=46orionis&theme=tokyo-night&hide_border=true)
 ---
 
 ## 🔝 Contributions
